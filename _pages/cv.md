@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: none # change to 'cv' recovery more layout
 permalink: /cv/
 title: cv
 nav: true
