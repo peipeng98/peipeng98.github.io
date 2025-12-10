@@ -9,7 +9,7 @@ nav_order: 6
 <ul>
   <li><strong>Conference Program Committee Member/Reviewer</strong></li>
   <ul>
-    <li>WWW'2026, CVPR'2026<li>
+    <li>WWW'2026, CVPR'2026</li>
     <li>NeurIPS'2025, ACM MM'2025, ICME'2025, CVPR'2025</li>
     <li>NeurIPS'2024, ECCV'2024.</li>
   </ul>
